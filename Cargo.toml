@@ -1,0 +1,12 @@
+[package]
+name = "datrie"
+version = "1.0.0"
+edition = "2021"
+authors = ["Arimura Sena <me@hotaru.icu>"]
+description = "Double array trie implementation of rust"
+repository = "https://github.com/biyuehu/datrie"
+readme = "README.md"
+keywords = ["double array trie", "trie", "double-array"]
+license = "GPL-3.0-only"
+
+[dependencies]
